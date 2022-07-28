@@ -2,3 +2,10 @@
     top: 50%;
     transform: translateY(-50%);
 }
+
+@media (max-width: 576px) {
+    .carousel-caption {
+        top: 24%;
+        transform: translateY(-50%);
+    }
+}
